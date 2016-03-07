@@ -3,8 +3,8 @@
 
 A Multi Layer Perceptron based Neural Network Useful for recognizing faces
 
-To run:
-	Install PyBrain: http://pybrain.org/
+To run: </br>
+	Install PyBrain: http://pybrain.org/ </br>
 
 	python identify.py
 
